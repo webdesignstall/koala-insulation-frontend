@@ -2094,10 +2094,14 @@ textarea.form-control {
       -ms-flex-negative: 0;
           flex-shrink: 0;
 }
-
+.header-img {
+  width: 50px;
+  height: 40px;
+}
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .header-logo a img {
-    width: 130px;
+    width: 30px;
+    height: 30px;
   }
 }
 
