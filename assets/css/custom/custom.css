@@ -2,3 +2,18 @@
     width: 60px;
     height: auto;
 }
+.login-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+.footer-logo{
+    width: 150px;
+    height: auto;
+    
+}
+.login-to-register{
+    text-decoration: underline;
+    color: #3BBCA7;
+}
